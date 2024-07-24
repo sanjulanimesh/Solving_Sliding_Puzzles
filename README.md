@@ -1,5 +1,5 @@
 # Solving_Sliding_Puzzles
-Solving Sliding Puzzles Using Path Finding (Java ,BFS Method)
+__Solving Sliding Puzzles Using Path Finding (Java ,BFS Method)__
 
 A two-dimensional character array (char[][] mapGrid) works best for displaying the puzzle`s layout. The picture is demonstrated 
 in the compensatory matrix where circles represent the arrangement of the puzzle. The obstacles are marked with the symbol (0) as 
